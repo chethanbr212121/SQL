@@ -9,7 +9,6 @@ grant resource to etl7
 grant dba to etl7
 
 
-
 grant create session to CHETU
 
 grant create table to  CHETU
